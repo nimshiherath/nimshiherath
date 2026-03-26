@@ -1,7 +1,7 @@
 
 # Hi, I'm Nimshi Herath 
 
-I am a cybersecurity student from Sri Lanka 🇱🇰, passionate about ethical hacking, network security, and digital forensics. My goal is to strengthen my skills in identifying vulnerabilities, securing systems, and learning how real-world attacks happen so I can prevent them.
+I am a cybersecurity student from Sri Lanka, passionate about ethical hacking, network security, and digital forensics. My goal is to strengthen my skills in identifying vulnerabilities, securing systems, and learning how real-world attacks happen so I can prevent them.
 
 I enjoy exploring tools like Nmap, Wireshark, and Metasploit to understand how networks and applications work. Currently, I am learning Linux, Python, and the fundamentals of networking. I am also actively participating in CTF challenges to sharpen my problem-solving and penetration testing skills.
 
